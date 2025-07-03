@@ -2,3 +2,4 @@
 
 - [Useful links](useful.links.md)
 - [Gilti's Troop Guide](troop.guide-by.gilti.md)
+- [Some Sprinkled Gear Notes](some.sprinkled.gear.notes.md)
