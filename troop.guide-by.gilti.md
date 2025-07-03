@@ -81,9 +81,9 @@ tiles, you'll have enough to hire almost 14 marches of Crushers, while you'll
 only will hire 8 marches of Guardians. That's 6 extra battles you could have
 each day.
 
-Also, like Gilti said above, unit damage only work on specific commanders
+Also, like Gilti said above, unit damage only works on specific commanders
 provided you select the right abilities and gear, so a standard DD doesn't
 benefit much from a T4 unit. It all depends on what you face: I've seen my
-Crushers do more than 30k damage without troops attack focus and I've seen
-gorgeous T4 do less than 10k.
+Crushers do more than 30k damage without troop attack focused gear or
+abilities, and I've seen gorgeous T4 do less than 10k.
 
